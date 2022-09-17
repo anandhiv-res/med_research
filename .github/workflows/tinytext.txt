@@ -1,0 +1,184 @@
+Personalised Medicine: A Critique on the Future of Health Care
+Abstract
+In recent years we have seen the emergence of “personalised medicine.” This development can be seen as the logical product of reductionism in medical science in which disease is increasingly understood in molecular terms. Personalised medicine has flourished as a consequence of the application of neoliberal principles to health care, whereby a commercial and social need for personalised medicine has been created. More specifically, personalised medicine benefits from the ongoing commercialisation of the body and of genetic knowledge, the idea that health is defined by genetics, and the emphasis the state places on individual citizens as being “responsible for” their own health. In this paper I critique the emergence of personalised medicine by examining the ways in which it has already impacted upon health and health care delivery.
+
+Introduction
+Over the past decade, a new approach to health care has emerged—the idea of “personalised medicine.” Personalised medicine is defined as the use of genomic and other biotechnologies to derive information about an individual that could be used to inform types of health interventions that would best suit that individual (Bentley 2004; Burke and Psaty 2007; Burke et al. 2010; Evans and Khoury 2007; Ginsburg and McCarthy 2001; Guttmacher, Porteous, and McInerney 2007; Hamburg and Collins 2010; Hedgecoe 2004; Katsios and Roukos 2010; Khoury 1996; Meyer and Ginsburg 2002; Reardon 2011; Snyderman and Sanders Williams 2003; Thrall 2004; Willard, Angrist, and Ginsburg 2005). This information can be used by health care providers to tailor therapies for an individual or it can offer people information about themselves that they may use to reduce their risk of illness or disease and help them maintain or return to a state of good health. This information is largely based on a genetic conception of the self, where health is envisioned as “an ideal state of freedom from disease, the predominant causes of which are seen to be due to ‘faults’ in the makeup of the human organism (the genome)” (Petersen 2006, 483). In this paper I critique the impact that personalised medicine has had (or may have) on health and health care delivery: disrupting the ontology of health, illness, and disease by over-emphasising the contribution of genetics to each and influencing judgements as to what constitutes evidence of health, illness, and disease. I then suggest that personalised medicine carries with it a privileging of libertarianism and of the commodification of health care that may challenge notions of personal and societal responsibility and create the possibility of increasing social inequality.
+
+Personalised Medicine: What Is It and Why Is It a Good Idea?
+Personalised medicine can be defined as the use of genetic knowledge about a patient to predict disease development, to influence decisions about lifestyle choice, and/or to tailor medical treatment plans/options for that same individual (NHMRC 2011). A personalised medicine approach can include, but is not limited to, decisions concerning an individual’s response to drugs or the environment, treatment options, and reproductive or lifestyles choices (Bentley 2004; Burke and Psaty 2007; Burke et al. 2010; Evans and Khoury 2007; Ginsburg and McCarthy 2001; Guttmacher, Porteous, and McInerney 2007; Hamburg and Collins 2010; Hedgecoe 2004; Katsios and Roukos 2010; Khoury 1996; Meyer and Ginsburg 2002; Reardon 2011; Snyderman and Sanders Williams 2003; Thrall 2004; Willard, Angrist, and Ginsburg 2005). A central part of this formulation of personalised medicine is the reliance on, and necessary involvement of, new biotechnologies—specifically new forms of genetic testing. Data from these genetic tests may be provided and interpreted by a health care professional or through a direct-to-consumer service provider. Health care has to some extent always been personalised, and biological data has long been used to tailor medical therapies for diseases and (to a lesser extent) individuals. What sets personalised medicine apart is its reliance on the “genetic conception of health” (Petersen 2006), where genetics is understood to be an underlying factor in most (if not all) health conditions. While personalised medicine assumes the involvement of genetics in the classification, diagnosis, and treatment of a range of conditions/diseases, the degree to which genetics is actually causative in human disease varies from single gene disorders (such as Huntington’s disease) to complex common conditions (such as dementia, diabetes, and heart disease) that are likely to emerge as a consequence of the interaction between multiple genetic and environmental factors where the exact degree to which genetics is contributory remains largely unknown. Irrespective of the degree to which genetic difference is causative in different conditions, personalised medicine assumes that there is a contribution from genetics and that this must always be considered. Genetic testing and genetic screening, therefore, become reified, as they enable the taxonomisation of people according to their current—and future—health. Diagnostic testing and screening, however, both rely upon robust knowledge about the exact implications of a positive or negative result, and each are predicated on the assumption that the information gained from these tests is meaningful and actionable. In other words, that the knowledge gained from a screening test will produce an assessment of health risk and will enable steps to be taken by an individual or the state to return that person to health or to modify the impact of the health risk.
+
+In many ways, of course, personalised medicine is exemplary of what medicine aspires to be: exact, rigorous, specific, and able to control both disease and the very possibility of death. The diagnosis and treatment of breast cancer provides an example of the therapeutic, normative, and heuristic power of genetics in medicine. Following the discovery of the genes predisposing to breast cancer (the BRCA1 and 2 genes) and other genes that affect the structure of treatment regimes for breast cancer patients (e.g., HER2), health care providers’ approaches to the treatment and prevention of breast cancer have increasingly been guided by the presence or absence of these genes in patients. For example, individuals known to have a variant in the BRCA1 and 2 genes associated with a significantly increased chance of breast cancer are now able to access preventative therapies (notably mastectomy) and screening programs earlier in life. Also, women with breast cancer are now tested to see if they have a variant in the HER2 gene—a gene that codes for a cell surface receptor (Slamon, Clark, et al. 1987; Slamon, Godolphin, et al. 1989). In some patients, when this cell surface receptor is over-expressed in their breast cancer tumour cells, they can be treated with a monoclonal antibody, trastuzumab (Herceptin®), which has been shown to improve median survival time (Baselga et al. 1998; Caremark 1998; Frueh and Gurwitz 2004; Phillips et al. 2004; Slamon, Layland-Jones, et al. 2001). Therefore, in some cases of breast cancer, genetic knowledge is used to predict disease progression and helps tailor medical treatments that give the patient the best chance at recovery and, in some cases, lessens the likelihood of adverse effects of particular treatments (Smart, Martin, and Parker 2004).
+
+The goal of personalised medicine, however, is not simply the treatment of patients but the prevention and prediction of disease by identification of genetic predispositions; as a result, health is obscured by the possibility of illness and now everyone is a “potential patient” (Ginsburg and Willard 2009; Law 2006; Moynihan and Cassels 2005; Seshadri et al. 1993). Personalised medicine, through the use of genetic testing of people in the absence of signs, symptoms, or history of disease or injury, therefore challenges what it means to be healthy.
+
+Personalised Medicine and the Ontology of Health, Illness, and Disease
+Disease has historically been understood in terms of pathological loss of normal, physiological function or variance from the “normal.” What is “normal” or “healthy” has, in turn, been understood by reference to an a priori assessment of biological normality or by reference to a population “norm” or average determined by epidemiological studies (Aronowitz 2004; Boorse 1975, 1977; Canguilhem 2004; Tiles 1993). Increasingly, genetics offers an “explanation” of who we were, are, or should be to the extent that “matters of birth, death, disease, disability and quality of life are increasingly subject to genetic interventions” (Miringoff 1991, 6). With personalised medicine, disease (and thereby health) is constructed in genetic terms, and thus it is only by knowing one’s genetics that informed decisions can be made and interventions designed to return an individual to health. This reinforces the idea that genetics is not just a part of one’s health, but central to it. This synthesis of genetics and health is implicit (and explicit) in the promotion of personal genome testing to consumers (Lupton 1994). The use of genetics to explain disease not only provides an explanation of causation, it also changes the ontology of disease. Illness in this respect becomes not so much a matter of experience, but the possibility of developing disease according to one’s genetics; genetic variants, or polymorphisms, therefore become equivalent to disease and illness. For example, women with the BRCA 1 or 2 mutation or men (and women) who test positive for genetic markers of Huntington’s disease are perceived as “diseased,” even when they have no symptoms and even when there is a possibility that they may never develop symptoms. Disease is no longer inextricably linked to symptoms, and the distinction between normal and pathological has shifted from anatomical, pathological, and physiological ideas about species-normal functioning to notions of “normal” human genetics (Canguilhem 1989, 2004). Personalised medicine reinforces the idea that health, illness, and disease are the object of genetic surveillance of the body and self and that people may be classified as healthy or diseased prior to the manifestation of symptoms or to their organ function being compromised by disease or illness (Foucault 1995).
+
+The genetic redefinition of health and disease implicit in personalised medicine thereby carries with it assumptions about the power of genetic knowledge and about an individual’s responsibility for his or her health. Responsibility for good health is shifted from government and collectives to the individual, such that the individual is now “responsible” for his or her health or disease. But while genetic data may enable choice, or at least give the illusion of meaningful choice, it may also provide a means for avoiding moral blame. For if an individual believes in the deterministic nature of one’s own genetics, he or she may claim to have no responsibility for his or her state of health (or by extension, his or her actions associated with health). While personalised medicine does not make explicit that people have particular moral responsibilities with regard to their future health, it does increase the likelihood that people may be judged according to both their genetic susceptibility and, more significantly, how they choose to act in response to knowledge about their (likely) future. As a result, tension emerges when personalised medicine can be seen to both empower and absolve individuals of responsibility with regards to their health. Empirical data from Australia illustrates that genetic information about an individual’s disease susceptibility changes the way in which individuals perceive themselves and their families and changes the way in which others see them (Taylor et al. 2008). Consequently, it is clear that discrimination based on genetic grounds may occur in the social, familial, and legal arenas. It is important to note, however, that discrimination is not a necessary feature of personalised medicine and that “medical” and social discrimination occurs in the absence of genetic data, based on physical attributes, beliefs, or lifestyle choices. Smokers, for example, are often judged as not being deserving of health care and obese people as culpable for their state of (ill) health. Genetic information and classification, therefore, do not create normativity or discrimination, they just, as Dr. James Watson has noted, enable it to be done more scientifically.
+
+Reframing the Epistemological Foundations of Health Care
+Over the course of the past 20 years, health care has increasingly come to emphasise the use of epidemiologically proven treatments for the prevention and treatment of disease (Petersen and Bunton 2002). This is a central feature of evidence-based medicine. But while medical epistemology has emphasised the importance of populations and quantitative data, there has also been broad recognition of the “generalisability gap”—the gap that exists between what works in a study situation for a specific population with certain controls versus what works for specific individuals in larger, uncontrolled populations (Rychetnik et al. 2004). Conventional medicine has never, therefore, completely discounted the centrality of the individual or the critical influence that individual factors have on whether a therapy works. Despite this, hierarchies of evidence consistently privilege epidemiology, biostatistics, and particular methodologies—notably randomised controlled trials (RCT) and systemic review with or without meta-analysis. Personalised medicine, however, challenges these hierarchies of evidence and the epistemological assumptions that they reflect; it challenges the very notion of what constitutes evidence in clinical medicine and public health (Khoury 2010). For example, when individuals are shown to possess a genetic variant that predisposes them to metabolise a drug faster or slower than people who lack a particular variant, designing, conducting, or utilising the results of an RCT for that drug becomes complicated and ultimately inappropriate. In both the research and clinical setting, the discriminate nature of personalised medicine requires the division of large populations into increasingly small sub-populations defined by the genetic variants they are known to possess. This means that evidence of harms and benefits are generalisable only to small subsets of the population; that is, to those who possess the genetic variant of interest. The problem with this formulation of efficacy, of course, is that while treatments may still be “evidence-based,” this is only true for individuals with that variant, meaning in effect that many individuals and populations are “orphaned” (in a research sense) and devoid of treatment options or recourse to action because they lack a “genetic requirement” (Conti et al. 2010; Khoury 2010).
+
+Understanding what research data actually means and applying it to the care of individuals is becoming increasingly complex and subject to expert interpretation. This is a particular issue for personalised medicine as, in contrast to other forms of diagnostics, genomic testing can be publicly accessed via commercial providers through the Internet without clinical referral and the results of personal genomic analysis accessed without interpretation or contextualisation. How consumers use and understand such information, of course, will vary from person to person as the meaning people attach to this information will be a “function of their own circumstances and their own views about what is important in their lives” (Ormond et al. 2010, 1749). The concern that many have regarding direct-to-consumer personal genome testing is that, without a “deeper” or “expert” understanding of the meanings and limitations of this information, consumers and patients may make decisions that have unintended harms that may result in significant physical, psychological, or social consequences (Reardon 2011). However, shifting the ontology of health and disease toward a genetically definable state may restrict richer philosophical constructions of health, compromise considerations of social determinants of disease, and impoverish thinking about responses to threats to clinical and public health. In this way, personalised medicine may lead, inevitably, to a reductionist, “anti-social” view of health, illness, and disease, where “illness is seen as an inherent failure of the individual rather than an outcome of an ‘unhealthy’ social or physical environment” (Petersen 2006, 489).
+
+While personalised medicine may seem to be leading toward a reductionist view of life, where health and disease is determined primarily by genetic difference, there are also burgeoning fields that oppose this shift. One such field is epigenetics, the study of heritable alterations in gene expression that are not explained by changes in DNA sequences and that may result from complex interactions between genetics, cellular processes, and the environment (Hallgrímsson and Hall 2011). While knowledge about genetics and the mechanisms that influence control and/or expression of genes has greatly expanded over the past 50 years, much less is known about the impact of other factors (such as environmental, social, and geographical influences) on gene expression, genetic change, and phenotype. In relation to personalised medicine, the insights of epigenetics provide a counterbalance to the prevailing notion that all explanations of life lie within the genome (Hallgrímsson and Hall 2011).
+
+The Neoliberal Landscape of Personalised Medicine
+The idea that genetic information predictive of future health and disease can, and indeed should, be purchased by consumers can best be seen as a manifestation of neoliberalism in health—where neoliberalism refers to the (re)privileging of liberal principles, including the notion that individuals are atomistic, rational agents whose existence and interests are prior to society (Petersen and Lupton 1996). In this construction, neoliberalist ideology in health care imagines patients as rational citizens capable of exercising regulated freedom (Rose and Miller 1992) and self-governance and as being imbued with a right to knowledge and to consumption (Reardon 2011).
+
+The rational individual imbued with the right to consume and actively seek out information—e.g., genetic information—is also tasked with a new responsibility: a responsibility “that one [has] caused one’s health and thus deserves it, just as others deserve whatever health they have caused” (Frank 2002, 27). This notion of a healthy person as a rational and responsible consumer is entirely consistent with personalised medicine, which creates an expectation of, and need for, “personalised” information by promoting the idea that individuals have the power to take control of their life and their future (Fairclough 1993). Personalised medicine, therefore, carries many of the hallmarks of consumerism in health in that it creates both a demand and a supply (Leiss 1976), and, at least in the realm of the marketplace, personalised medicine cannot profit in the absence of liberal constructions of health care. Of necessity, this emphasis on the individual, both in terms of the ontology of health and illness and the delivery of health care services, presents a major threat to communitarian ideals and the emphasis on “approaches to participation that are necessary to advance the health and wellbeing of the population as a whole” (Hogg 1999, 169–171; Hendersen and Petersen 2002, 3). This, in turn, raises larger questions regarding the impact that personalised medicine may have on equity and social justice.
+
+Equity, Justice, and Personalised Medicine
+Given the capacity for any system of health care to reduce or increase inequity, one must question the extent to which a personalised approach to health care should be supported and funded. In this regard it is worth noting that, while personalised medicine appears to emphasise autonomy, in reality it may simply privilege consumption. For, as others have noted, “the consumption of particular health-related goods and services is shaped not simply by perceived health benefits (improved health), but also by their associations with particular images, lifestyles and tastes” (Hendersen and Petersen 2002, 3). As a result, the autonomous rational “consumer” of health care promoted by personalised medicine may, therefore, simply be an artefact of culture, expertise, and the health-marketing system (Grace 1991, 1994; Frank 2000, 2002), and, because personalised medicine is most accessible to those with money and thus the capacity to purchase goods and services, it is entirely possible that it may ultimately erode notions of universal care, increase health inequities, and lead to further injustice for those already without a voice, further disempowering those who already lack access to health care. This is true both for individuals who may lack the capacity to purchase or understand genetic bio-knowledge (and the products to which it is linked) and for populations who may lack the biomarker to be a “population of interest” (Petersen 2009).
+
+Personalised medicine, by definition, is concerned primarily with the individual (Lunshof 2006). But personalised medicine relies upon epidemiological data derived from large populations and from genomic biobanks. This creates something of a paradox in that personalised medicine requires the involvement of many. This in turn raises important questions about public participation in science and the goals of health care and equity. For if personalised medicine relies upon populations contributing data and bio-specimens, then it would seem appropriate that the public should expect to benefit from the insights of personalised medicine and that the “goods” of personalised medicine should be accessible and should be distributed justly and fairly (Lunshof 2006).
+
+Conclusion
+Personalised medicine is often framed as an apolitical and an acultural development in biomedical science that provides the possibility of “personal” care for all. In public health terms, it is more accurate to suggest that it may simply promote the consumption of health information and health care by wealthy, active, and health-conscious citizens who are already involved in their health care. However, rather than promoting autonomy and agency, personalised medicine has the potential to impoverish notions of identity and health (because everyone is now at risk of disease or pre-symptomatically ill) and constrain agency (for one cannot choose not to act when in possession of such powerful bio-knowledge). Furthermore, by making health care (and disease) the responsibility of the individual, personalised medicine may actually absolve the state from responsibility for its citizens’ health, thereby exacerbating current health inequities by its blindness to social, economic, and environmental determinants of health.
+
+The challenge for those charged with delivering just health care is that it is certain that personalised medicine will increasingly shape understandings of health and disease and shape both therapeutics and systems of evidence. Personalised medicine, therefore, raises profound ontological and epistemic questions about health care. Furthermore, it also raises profound moral questions for medicine, public health, and bioethics—in part because it alters the relationship between the individual and the community, in part because it frames the responsibilities of the individual and the state in particular terms, and in part because it is so much a function of the medical marketplace and so much a product of the tenets of neoliberalism.
+
+Source: https://link.springer.com/article/10.1007/s11673-013-9429-8
+
+-----------end-------------
+
+Editors Introduction to the Special Issue on Advances in Cognitive and Behaviour Therapies and Applications in Health Practices
+
+The last thirty years have seen significant advances in cognitive and behavioural
+psychotherapies and their application in health care/clinical practices. These include
+the integration of acceptance/mindfulness and neurobiological findings in theory and
+practice, greater orientation to processes of change, and the use of mobile technology and
+digital and just-in-time interventions. The current Journal of Clinical Medicine Special Issue
+on new Advances in Cognitive and Behavioural Psychotherapies aims to bring together
+empirical papers relevant to new advances in Cognitive Behaviour Therapy or theory that
+include clinical outcome studies, studies of the dynamic interplay of influential factors
+(e.g., personalised medicine, processes of change research, lab-based research relevant to
+clinical interventions), and systematic literature reviews. To promote this line of work, an
+announcement for a Special Issue was posted early in 2021, at which point submissions
+were opened.
+Twelve manuscripts were handled for this Special Issue by two guest editors (McHugh
+and Merwin). Eight manuscripts on this topic were chosen to include in this issue after
+rigorous peer review. Articles in the area of mindfulness-based interventions, acceptance
+and commitment therapy, and moral reasoning development are included. Health areas
+of body image, HIV, Inflammatory Bowel Disease, eating disorders, schizophrenia, the
+treatment of healthcare professionals, emotion regulation, and pain sensitization conditions
+were included. Six articles in the Special Issue are empirical studies with two RCTs and one
+with a single case experimental design, and there are two systematic reviews.
+The first paper is focused on psychological flexibility—the most supported process
+of change in psychological interventions [1]. Psychological flexibility refers to the ability
+to be flexible, aware, and engaged in coping with one’s problems and is central to health
+and well-being [2]. The study examined whether untrained individuals could embody
+and detect psychological flexibility. The participants were photographed assuming a
+body posture that reflects when they are at their “best” and “worst” when dealing with
+a difficult psychological issue or a challenge. The photographs were then rated on the
+three dimensions of psychological flexibility: openness, awareness, and engagement. The
+participants included individuals from the United States and Iranian immigrants.
+There was a significant difference in ratings by picture type, indicating that the participants naturally (without training) displayed more open, aware, and engaged postures
+when embodying themselves at their best at dealing with a problem and more closed,
+unaware, and unengaged postures when at their worst, and with high inter-rater reliability
+by untrained individuals. These findings suggest that people may learn psychological
+flexibility as an adaptive approach to problems (and can recognise it in others), even when
+it is not explicitly trained. It also highlights body posture as social communication and regulation, with possible implications for the health and well-being of close individuals [3] and
+the potential to use more objective indicators of key processes of change in psychological
+interventions to advance beyond self-report measures [1].
+
+However, the authors also report another interesting finding of an interaction between the ratings and location, with the postures of Iranian men suggesting cross-cultural
+differences in the topography of effective coping. This highlights the importance of taking a multilevel approach to the study of human behaviour that considers the influence
+of progressively larger ecosystems [4]. In which the individual and their behaviour is
+situated [1].
+The next five papers are empirical investigations of interventions. Interventions
+address an array of human problems, from the management of chronic disease to eating
+disorders and violence prevention. The first three papers focus on adapting Acceptance
+and Commitment Therapy (ACT) to a variety of health-related problems. Acceptance and
+Commitment Therapy (ACT) is a contemporary cognitive and behavioural therapy that
+is grounded in functional contextualism and is process-based [5]. Over 800 randomised
+controlled trials have been conducted [6] in the nearly forty years since the first study on
+ACT was published [7]. The papers included in this Special Issue describe the adaptations
+of ACT for HIV, Inflammatory Bowel Disease (IBD), and Eating Disorders (EDs); two
+engage technology in intervention delivery. We return to ACT in a systematic review
+on ACT for Central Pain Sensitization Syndromes (CPSS) at the end of this Special Issue.
+A fourth paper takes a different therapeutic approach, developing a Moral Reasoning
+Development Intervention to address violence in schizophrenia, and the final empirical
+paper uses Mindfulness-Based Stress Reduction (MBSR) to help the helper (the healthcare
+worker). Each paper has a different strength or point of interest.
+The first of the five intervention papers describes the development of an ACT-based
+intervention for hospitalised, out-of-care persons with HIV who endorse avoidant coping.
+The goal of the intervention was to improve HIV treatment engagement, and the aim
+of the current study was to examine the initial feasibility and acceptability and modify
+the intervention based on key stakeholder feedback in preparation for a randomised
+controlled trial (RCT). The investigators learned what was more or less helpful, including an
+appreciation for the delivery settings and interventions that resonated with the participants.
+The participants that provided feedback (about 50% of the enrolled) indicated that they
+would recommend it to others. As a result of the pilot, the intervention was simplified
+with key concepts repeated, some graphics were changed for better representation and
+sensitivity to the patient population, and the intervention materials were translated into
+Spanish. This paper was unique in its target of health care utilisation/retention, but also in
+including patients in the research enterprise, which can be rare. It was also of interest in its
+focus on a potentially marginalised population.
+The next paper uses Single Case Design (SCD) methods to help patients with Inflammatory Bowel Disease (IBD) cope with distress. In the first experiment, one therapeutic
+session was delivered face-to-face. The results of this study indicated that a higher dose
+was necessary. In the second experiment, a two-session protocol delivered by telehealth
+and supplemented with follow-up telephone calls was introduced. The findings indicated
+that this dose was significant in producing change: 50% of the patients experienced reduced stress, increased engagement in valued action, and increased functioning. This study
+illustrates how telehealth may be used to deliver more adequate doses with less burden
+than in-person interventions. It is also of interest in its use of SCD, underutilised in the
+development of psychological interventions despite advanced statistical techniques to test
+and quantify change.
+The third ACT paper involved a Randomised Controlled Trial of a digital, gamified
+intervention for women and girls at high risk for developing an eating disorder. The entire
+intervention was delivered online. The participants followed an avatar (main character)
+through a storyline and learned ACT-based coping skills as the character faced challenging
+experiences related to her body weight and shape. The participants learned skills vicariously and through the completion of interactive exercises. The participants in the ACT
+group evidenced greater reductions in ED symptoms relative to the waitlist control group,
+suggesting that this may be a promising direction for early ED intervention. This study
+
+was unique in delivering a completely online intervention with high potential for wide
+dissemination and in the use of gamification to engage young people and train skills to
+reverse the trajectory of an at-risk population.
+The next paper looked at an integrated Moral Reasoning Development Intervention
+(MRDI) for the management of repeated violence in schizophrenia. The intervention focused on the motivation of behaviour and behaviours guided by cognitive processes, moral
+and ethical judgments, and responsibility attribution, rather than impulsive or emotional
+responses. The participants practised moral reasoning skills in personalised scenarios.
+Unlike other interventions included in this systematic review, MRDI challenged cognitive
+distortions specifically related to intent, causes and consequences of behaviour. However,
+similar to ACT and other contemporary CBTs in this review, it reinforced cognitive flexibility and flexible perspective-taking. The MRDI protocol also taught anger management,
+conflict resolution, and social skills. MRDI outperformed treatment-as-usual in improving
+moral reasoning and decreasing violence. This study is an example of teaching individuals
+to consider their automatic assumptions and orient to broader personal values or goals
+in decision making, along with the broader dimension of self-regulation as a process of
+change. It is also an example of a personalised approach with in vivo practice.
+A final empirical paper looked at Mindfulness-based stress reduction (MBSR). MBSR
+involves weekly group classes and daily mindfulness exercises to practise at home over an
+8-week period. There are hundreds of studies demonstrating the efficacy of the 8-week programme [8]. The current study compared a standard length to an abbreviated MindfulnessBased Stress Reduction program for anxiety and depression in healthcare professionals.
+The standard MBSR training program had a positive effect on anxiety and depression and
+promoted long-lasting effects in tutors and resident practitioners. These effects were not
+observed in the abbreviated program. This provides important information on dosage and
+attempts to shorten interventions. This study is also an example of interventions extending
+to practitioners—potentially redefining or eliminating somewhat arbitrary distinctions
+between “patients” and “practitioners”.
+The final two papers are systematic reviews. The first reviews interventions on
+emotion regulation (ER). ER interventions improved ER as expected and were superior
+to waitlist or treatment as usual; however, there was limited evidence to suggest they
+were superior to other active treatments. Caution should be taken here, as the review
+also highlighted the need to further develop this area, with most studies having less than
+optimal methodological rigour (only three studies were rated as “good”, none were rated
+as “excellent”). The second systematic review summarised the empirical base on ACT for
+central pain sensitization syndromes (CPSS). There were 21 studies, of which four were high
+quality (others were moderate or poor). Overall, ACT appears to reduce subjective CPSS
+symptoms and improve quality of life, outperforming waitlist controls, psychoeducation,
+and pharmacological interventions.
+We are delighted to have served as guest editors for such a diverse and exemplary set of
+manuscripts. We are grateful for the high quality of the work of not only the academics and
+authors but also of the JCM staff and reviewers who made this Special Issue possible. We
+believe that by bringing together these advances in this Special Issue, we have highlighted
+the important work that is ongoing in this area that is contributing to better practice and
+outcomes in clinical medicine.
+
+Source:
+
+-----------------------end-------------------
+
+Evidence‐based healthcare, clinical knowledge and the rise of personalised medicine
+
+
